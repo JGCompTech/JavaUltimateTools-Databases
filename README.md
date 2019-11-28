@@ -10,7 +10,7 @@ Java Ultimate Tools Databases allows for easier connection to databases. It cont
 **NOTE: This Project Has Now Been Updated To Use Java 11!!!**
 
 **NOTE: This project used to be merged with the [JavaUltimateTools](https://github.com/JGCompTech/JavaUltimateTools) project but, to allow for ease of development process and the ability to update each section sepeately, it made sense to create seperate libraries.
-This project has a dependancy on the JavaUltimateTools base library and, if using a package manager, will be auto-imported.
+This project has a dependancy on the JavaUltimateTools base library and, if using a package manager, will be auto-imported.**
 
 # Development
 Want to contribute? Great!
